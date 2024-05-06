@@ -5,11 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manishsunkriya&label=Profile%20views&color=0e75b6&style=flat" alt="manishsunkriya" /> </p>
 
-- 🔭 I’m currently Studying in B.C.A final [Tic-Tac-Toe Game](https://github.com/manishsunkriya/Tic-Tac-Toe.git)
+- 🔭 I’m currently Studying in B.C.A final
+- [Tic-Tac-Toe Game](https://github.com/manishsunkriya/Tic-Tac-Toe.git)
 
 - 🌱 I’m currently learning **B.C.A final**
 
-- 👨‍💻 All of my projects are available at [https://twitter.com/home](https://twitter.com/home)
+- 👨‍💻 All of my projects are available at
+- [https://twitter.com/home](https://twitter.com/home)
 
 - 📫 How to reach me **manishkankar391@gmail.com**
 
