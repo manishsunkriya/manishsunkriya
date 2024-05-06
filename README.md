@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manishsunkriya&label=Profile%20views&color=0e75b6&style=flat" alt="manishsunkriya" /> </p>
 
 - 🔭 I’m currently Studying in B.C.A final
-- [Tic-Tac-Toe Game](https://github.com/manishsunkriya/Tic-Tac-Toe.git)
+- [Tic-Tac-Toe Game] (https://github.com/manishsunkriya/Tic-Tac-Toe.git)
 
 - 🌱 I’m currently learning **B.C.A final**
 
